@@ -28,4 +28,3 @@ Clone Repository untuk mengcopy repository server secara otomatis membuat satu d
 . Untuk menambahkan file yang baru saja dibuat gunakan perintah git add
 . Lalu setelah berhasil ditambahkan Untuk menyimpan perubahan yang ada kedalam repository local gunakan perintah git commit -m "Komentar"
 . Lalu untuk mengirim perubahan pada local repository gunakan perintah git push -u origin main
-![Gambar 10](screenshot/)
