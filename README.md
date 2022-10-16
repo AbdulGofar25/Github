@@ -10,4 +10,4 @@ Pada saat pertama kali menggunakan git lakukanlah konfigurasi terlebih dahulu us
 ![Gambar 3](screenshot/ss3.png)
 ## 3.Membuat akun di GIT HUB
 Login ke akun Git Hub anda atau jika anda belum punya buatlah terlebih dahulu akun Git Hub anda dengan Sign Up dan ikuti Perintahnya
-![gambar 4](sceenshot/ss4.png)
+![gambar 4](screenshot/ss4.png)
