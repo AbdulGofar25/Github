@@ -31,3 +31,5 @@ Clone Repository untuk mengcopy repository server secara otomatis membuat satu d
 ![Gambar 10](screenshot/ss18.png)
 ## 8.Lihat Hasilnya di Repository
 ![gambar 11](screenshot/19.png)
+
+# Terimakasih, Semoga membantu
