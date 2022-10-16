@@ -1,3 +1,3 @@
 # Github
-Latihan
-#github
+# Latihan
+i [gambar](screenshot/ss1.png)
