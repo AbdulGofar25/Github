@@ -18,6 +18,6 @@ setelah itu kalian akan membuat nama repository kalian lalu klik Creat a new rep
 ![Gambar 6](screenshot//ss6.png)
 ## 5.Membuat Folder Baru
 Buatlah New Folder di local disk anda
-![gambar 7](screenshot/ss15.png)
+![Gambar 7](screenshot/ss15.png)
 Setelah itu arahkan Git Bash pada directory file anda dengan menggunakan perintah cd/local disk/nama file anda
 ![Gambar 8](screenshot/ss16.png)
