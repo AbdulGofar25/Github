@@ -14,3 +14,5 @@ Login ke akun Git Hub anda atau jika anda belum punya buatlah terlebih dahulu ak
 ## 4.Membuat Repository Baru
 setelah berhasil membuat akun baru dan login ke akun Git Hub anda setelah itu buatlah repository dengan mengklik "NEW" pada tampilan Git Hub anda
 ![Gambar 5](screenshot/ss5.png)
+setelah itu kalian akan membuat nama repository kalian lalu klik Creat a new repository
+![Gambar 6](screenshot//ss6.png)
